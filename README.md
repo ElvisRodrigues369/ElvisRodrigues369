@@ -142,7 +142,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
   <a href="mailto:elvisrodrigues84@gmail.com?subject=Hello%20elvis, %20I%20contact%20you%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/elvis.rodrigues@369/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/elvis.rodrigues@369/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
