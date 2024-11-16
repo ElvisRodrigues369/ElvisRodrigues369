@@ -134,7 +134,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ### <p align="center">📫 Contact me :</p>
 
-<p align="center">
+<p display='flex'>
 
   <a target="_blank"href="https://www.linkedin.com/in/elvisrodrigues@369/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
